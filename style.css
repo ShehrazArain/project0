@@ -1,0 +1,37 @@
+
+#body_color{
+    background-color:darkgray;
+}
+
+#pic_size{
+    border:2px solid black;
+
+    margin-left: 87px;
+    width:1090px;
+    height:500px;
+
+}
+
+#right_side_design
+{
+    background-color: teal;
+    width: 25px;
+    height: 1100px;
+
+}
+
+#inner_side_design
+{
+    background-color:black;
+    width:1090px;
+    color: white;
+}
+
+
+#left_side_design
+{
+    background-color: teal;
+    width: 25px;
+    height: 1100px;
+
+}
